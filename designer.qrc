@@ -1,0 +1,51 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>IconJPG/gripper_close.jpg</file>
+    <file>IconJPG/gripper_open.jpg</file>
+    <file>IconJPG/pump_msh_sha8ala.png</file>
+    <file>IconJPG/pump_off.png</file>
+    <file>IconJPG/pump_on.png</file>
+    <file>IconJPG/without_bubble2.png</file>
+    <file>IconJPG/pump_msh_sha8ala.jpg</file>
+    <file>IconJPG/pump_sha8ala.jpg</file>
+    <file>IconJPG/with_bubble.jpg</file>
+    <file>IconJPG/without_bubble2.jpg</file>
+    <file>IconJPG/with_bubble.jpg</file>
+    <file>IconJPG/without_bubble.jpg</file>
+    <file>IconJPG/without_bubble2.jpg</file>
+    <file>IconJPG/antiClockwise-green.jpg</file>
+    <file>IconJPG/antiClockwise-grey.jpg</file>
+    <file>IconJPG/ascending-green.jpg</file>
+    <file>IconJPG/ascending-grey.jpg</file>
+    <file>IconJPG/background1.jpg</file>
+    <file>IconJPG/background2.jpg</file>
+    <file>IconJPG/clockwise-green.jpg</file>
+    <file>IconJPG/clockwise-grey.jpg</file>
+    <file>IconJPG/descending-green.jpg</file>
+    <file>IconJPG/descending-grey.jpg</file>
+    <file>IconJPG/downward-green.jpg</file>
+    <file>IconJPG/downward-grey.jpg</file>
+    <file>IconJPG/image 3.jpg</file>
+    <file>IconJPG/image 4.jpg</file>
+    <file>IconJPG/image 5.jpg</file>
+    <file>IconJPG/image.jpg</file>
+    <file>IconJPG/image2.jpg</file>
+    <file>IconJPG/left-green.jpg</file>
+    <file>IconJPG/left-grey.jpg</file>
+    <file>IconJPG/pup0.jpg</file>
+    <file>IconJPG/logo2.png</file>
+    <file>IconJPG/pup1.jpg</file>
+    <file>IconJPG/pup2.jpg</file>
+    <file>IconJPG/right.jpg</file>
+    <file>IconJPG/right-green.jpg</file>
+    <file>IconJPG/right-grey.jpg</file>
+    <file>IconJPG/tilt-green-left.jpg</file>
+    <file>IconJPG/tilt-green-right.jpg</file>
+    <file>IconJPG/tilt-grey.jpg</file>
+    <file>IconJPG/upward-green.jpg</file>
+    <file>IconJPG/upward-grey.jpg</file>
+    <file>IconJPG/wrong.jpg</file>
+    <file>IconJPG/x-closse.png</file>
+    <file>IconJPG/x-openn.png</file>
+  </qresource>
+</RCC>
